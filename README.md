@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 Work History: [**Angular**](https://github.com/angular) | [**React**] ➡️ [**EY**](https://www.linkedin.com/company/EY/) ➡️ **Emids 🚀**
+- 🔭 Work History: [**Angular**](https://github.com/angular) | [**React**](https://react.dev/learn) ➡️ [**EY**](https://www.linkedin.com/company/EY/) ➡️ **Emids 🚀**
 
 - 🌱 I’m currently learning **AWS, NextJS, Java Spring Boot , GraphQL, Azure and [HackerRank](https://www.hackerrank.com/creativerahuly)]**
 
