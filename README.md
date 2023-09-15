@@ -6,9 +6,9 @@
 </p>
 
 
-- 🔭 Work History: [**Angular**](https://github.com/angular) ➡️ [**EY**](https://www.linkedin.com/company/EY/) ➡️ **Emids 🚀**
+- 🔭 Work History: [**Angular**](https://github.com/angular) | [**React**] ➡️ [**EY**](https://www.linkedin.com/company/EY/) ➡️ **Emids 🚀**
 
-- 🌱 I’m currently learning **AWS, NextJS, Gatsby, GraphQL, Azure and [HackerRank](https://www.hackerrank.com/creativerahuly)]**
+- 🌱 I’m currently learning **AWS, NextJS, Java Spring Boot , GraphQL, Azure and [HackerRank](https://www.hackerrank.com/creativerahuly)]**
 
 - 💼 &nbsp; FullStack Developer.
 - 🌱 &nbsp; Enthusiast in Open Source, Cloud Technology and Artificial Intelligence.
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **creativerahuly@gmail.com**
 
-- ⚡ Fun fact **I want to touch 1000 commits on Github in 2022**
+- ⚡ Fun fact **I want to touch 1000 commits on Github in 2023**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuly1390&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/rahuly1390/github-readme-stats)
 
